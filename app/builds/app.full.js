@@ -47,7 +47,7 @@ var ExamplePartial = new (function (_Combo$Component2) {
 	_createClass(_class2, [{
 		key: "render",
 		value: function render() {
-			return "\n\t\t\t<section class=\"bloom-section custom-section-example\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<p><img class=\"bloom-image ( -fluid )\" src=\"images/example.png\"></p>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
+			return "\n\t\t\t<section class=\"bloom-section custom-section-example\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<h2>An Example</h2>\n\t\t\t\t\t<p>If you know how to write a template literal, then you already know how to create a component.</p>\n\t\t\t\t\t<p><img class=\"bloom-image ( -fluid )\" src=\"images/example.png\"></p>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
 		}
 	}]);
 
@@ -70,7 +70,7 @@ var FeaturePartial = new (function (_Combo$Component3) {
 	_createClass(_class3, [{
 		key: "render",
 		value: function render() {
-			return "\n\t\t\t<section class=\"bloom-section custom-section-feature\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<div class=\"bloom-grid\">\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t\t<h2>Minimalistic</h2>\n\t\t\t\t\t\t\t<p>Minimalistic in a good way.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t\t<h2>Lightweight</h2>\n\t\t\t\t\t\t\t<p>Combo is approximately 1KB when minified and gzipped. This means the framework will load chop-chop.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t\t<h2>No Bullshit</h2>\n\t\t\t\t\t\t\t<p>No need to learn JSX. Combo uses ES2015 template literals render your components. You're welcome.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
+			return "\n\t\t\t<section class=\"bloom-section custom-section-feature\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<div class=\"bloom-grid\">\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t<img src=\"images/balance.png\">\n\t\t\t\t\t\t\t<h2>Minimalistic</h2>\n\t\t\t\t\t\t\t<p style=\"text-align:left\">Combo only renders components, and makes no assumptions on your architecture or technology stack.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t\t<img src=\"images/balance.png\">\n\t\t\t\t\t\t\t<h2>Lightweight</h2>\n\t\t\t\t\t\t\t<p style=\"text-align:left\">Combo is approximately 1KB when minified and gzipped. This means the framework will load chop-chop.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1\">\n\t\t\t\t\t\t\t<img src=\"images/poo.png\">\n\t\t\t\t\t\t\t<h2>No Bullshit</h2>\n\t\t\t\t\t\t\t<p style=\"text-align:left\">No need to learn JSX. Combo uses ES2015 template literals render your components. You're welcome.</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
 		}
 	}]);
 

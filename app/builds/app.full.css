@@ -30,8 +30,17 @@ h6 {
    font-weight: 300;
 }
 /* ==========================================================================
-   #variations
+   #components
    ========================================================================== */
+
+.custom-hero,
+.custom-lead {
+	margin: 0;
+}
+
+.custom-lead {
+	font-size: 120%;
+}
 
 /* ==========================================================================
    #variations
@@ -42,7 +51,7 @@ h6 {
   ========================================================================== */
 
 .custom-section-banner {
-	padding: 2em 0;
+	padding: 4em 0;
 	text-align: center;
 	background-color: #F92672;
 }
@@ -52,6 +61,8 @@ h6 {
   ========================================================================== */
 
 .custom-section-feature {
+	padding: 2em 0;
+	text-align: center;
 	color: #222;
 	background-color: #fff;
 }
@@ -61,6 +72,7 @@ h6 {
    ========================================================================== */
 
 .custom-section-example {
+	padding: 2em 0;
 	color: #222;
 	background-color: #f2f2f2;
 }
