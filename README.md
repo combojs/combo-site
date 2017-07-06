@@ -1,8 +1,8 @@
 ![Logo](https://github.com/combojs/combo-seed/blob/master/doc/img/logo.png?raw=true)
 
-# Combo Seed
+# Combo Site
 
-A starting point for Combo.js web applications.
+The website for Combo.js.
 
 * [Official Site](http://www.combojs.com/)
 * [Gitter](https://gitter.im/combo-js/)

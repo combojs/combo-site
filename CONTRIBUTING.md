@@ -1,6 +1,6 @@
 # Contributing
 
-Feel free to [open issues](https://github.com/combojs/combo-seed/issues) and send pull requests. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
+Feel free to [open issues](https://github.com/combojs/combo-site/issues) and send pull requests. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Pull Requests
 

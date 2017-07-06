@@ -1,6 +1,6 @@
-// ## Banner Partial
+// ## FeaturePartial
 //
-// Contains the markup for the Home page banner.
+// Contains the markup for the Home page's feature section.
 //
 var FeaturePartial = new class extends Combo.Component {
 	render() {
@@ -9,9 +9,9 @@ var FeaturePartial = new class extends Combo.Component {
 				<div class="bloom-section__body">
 					<div class="bloom-grid">
 						<div class="bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1">
-						<img src="images/balance.png">
-							<h2>Minimalistic</h2>
-							<p style="text-align:left">Combo only renders components, and makes no assumptions on your architecture or technology stack.</p>
+						<img src="images/cog.png">
+							<h2>Component-based</h2>
+							<p style="text-align:left">Design interactive user interfaces from small components that encapsulate the template and logic.</p>
 						</div>
 						<div class="bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1">
 							<img src="images/balance.png">
@@ -21,7 +21,7 @@ var FeaturePartial = new class extends Combo.Component {
 						<div class="bloom-grid__item bloom-width-1-3 bloom-medium-width-1-1">
 							<img src="images/poo.png">
 							<h2>No Bullshit</h2>
-							<p style="text-align:left">No need to learn JSX. Combo uses ES2015 template literals render your components. You're welcome.</p>
+							<p style="text-align:left">No need to learn JSX or TypeScript. Combo uses ES2015 template literals render your user interfaces.</p>
 						</div>
 					</div>
 				</div>

@@ -1,11 +1,11 @@
 {
 	"name": "combo-seed",
-	"description": "A starting point for Combo.js web applications.",
+	"description": "The website for Combo.js",
 	"version": "1.0.0",
 	"author": "Eric Harms",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/combojs/combo-seed.git"
+		"url": "https://github.com/combojs/combo-site.git"
 	},
 	"license": "MIT",
 	"devDependencies": {

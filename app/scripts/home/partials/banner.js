@@ -1,4 +1,4 @@
-// ## Banner Partial
+// ## BannerPartial
 //
 // Contains the markup for the Home page banner.
 //
@@ -11,8 +11,8 @@ var BannerPartial = new class extends Combo.Component {
 					<h1 class="custom-hero">Combo.js</h1>
 					<p class="custom-lead">A lightweight library for creating user interfaces.</p>
 					<p>
-						<a href="#" class="bloom-button custom-button-ghost">Get Started</a>
-						<a href="#" class="bloom-button custom-button-ghost">Tutorial</a>
+						<a href="https://github.com/combojs/combo-js/blob/master/doc/learn.md" class="bloom-button custom-button-ghost">Learn</a>
+						<a href="https://github.com/combojs/combo-js" class="bloom-button custom-button-ghost">GitHub</a>						
 					</p>
 				</div>
 			</section>

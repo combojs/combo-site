@@ -3,7 +3,7 @@
 // Define application-level variables and methods below.
 //
 
-// Render the HomeScene.
+// Render the HomeScene. 
 //
 Combo.render(document.getElementById("root"), `
 	${BannerPartial.render()}
