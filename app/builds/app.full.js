@@ -24,7 +24,7 @@ var BannerPartial = new (function (_Combo$Component) {
 	_createClass(_class, [{
 		key: "render",
 		value: function render() {
-			return "\n\t\t\t<section class=\"bloom-section custom-section-banner\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<img alt=\"Logo\" src=\"images/logo.png\" alt=\"logo\">\n\t\t\t\t\t<h1 class=\"custom-hero\">Combo.js</h1>\n\t\t\t\t\t<p class=\"custom-lead\">A lightweight library for creating user interfaces.</p>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t<a href=\"https://github.com/combojs/combo-js/blob/master/doc/learn.md\" class=\"bloom-button custom-button-ghost\">Learn</a>\n\t\t\t\t\t\t<a href=\"https://github.com/combojs/combo-js\" class=\"bloom-button custom-button-ghost\">GitHub</a>\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
+			return "\n\t\t\t<section class=\"bloom-section custom-section-banner\">\n\t\t\t\t<div class=\"bloom-section__body\">\n\t\t\t\t\t<img alt=\"Logo\" src=\"images/logo.png\" alt=\"logo\">\n\t\t\t\t\t<h1 class=\"custom-hero\">Combo.js</h1>\n\t\t\t\t\t<p class=\"custom-lead\">A lightweight library for creating user interfaces.</p>\n\t\t\t\t\t<p>\n\t\t\t\t\t\t<a href=\"https://github.com/combojs/combo-js/blob/master/doc/learn.md\" class=\"bloom-button custom-button-ghost\">Learn</a>\n\t\t\t\t\t\t<a href=\"https://github.com/combojs/combo-js/blob/master/doc/api/api.md\" class=\"bloom-button custom-button-ghost\">API</a>\n\t\t\t\t\t\t<a href=\"https://github.com/combojs/combo-js\" class=\"bloom-button custom-button-ghost\">GitHub</a>\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t</section>\n\t\t";
 		}
 	}]);
 

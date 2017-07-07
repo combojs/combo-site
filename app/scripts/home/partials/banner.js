@@ -12,6 +12,7 @@ var BannerPartial = new class extends Combo.Component {
 					<p class="custom-lead">A lightweight library for creating user interfaces.</p>
 					<p>
 						<a href="https://github.com/combojs/combo-js/blob/master/doc/learn.md" class="bloom-button custom-button-ghost">Learn</a>
+						<a href="https://github.com/combojs/combo-js/blob/master/doc/api/api.md" class="bloom-button custom-button-ghost">API</a>
 						<a href="https://github.com/combojs/combo-js" class="bloom-button custom-button-ghost">GitHub</a>						
 					</p>
 				</div>
