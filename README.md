@@ -5,7 +5,7 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-babel--polyfill-blue.svg)](https://babeljs.io/docs/usage/polyfill/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
-The official site for [Combo.js](http://www.combojs.com/)
+The [Combo.js](http://www.combojs.com/) website.
 
 ## Contributing
 

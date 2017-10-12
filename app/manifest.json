@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "EllucianIL",
+	"name": "Combo",
 	"version": "1.0.0",
-	"description": "Ellucian IL is a one-day annual conference for higher-ed institutions that have the Ellucian Banner or Ellucian Colleague system.",
+	"description": "A lightweight library for creating user interfaces.",
 	"author": "Eric Harms"
 }

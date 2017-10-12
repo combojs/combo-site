@@ -1,10 +1,10 @@
 {
-	"name": "EllucianIL",
+	"name": "Combo",
 	"version": "1.0.0",
-	"description":"Ellucian IL is a one-day annual conference for higher-ed institutions that have the Ellucian Banner or Ellucian Colleague system."
+	"description":"A lightweight library for creating user interfaces."
 	"launch_path", "/index.html",
 	"developer": {
 		"name": "Eric Harms",
-		"url": "https://github.com/eric-harms"
+		"url": "https://github.com/combojs"
 	}
 }
