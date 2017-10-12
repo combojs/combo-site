@@ -1,31 +1,12 @@
-# ellucianil-site
+![Logo](https://github.com/combojs/combo-js/blob/master/doc/img/logo.png?raw=true)
 
-The official Ellucian IL website.
+# Combo.js
 
-## Installation
+[![Dependencies](https://img.shields.io/badge/dependencies-babel--polyfill-blue.svg)](https://babeljs.io/docs/usage/polyfill/)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
-Before building this project, you must install and configure the following dependencies on your machine.
-
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/en/)
-* [Yarn](https://yarnpkg.com/en/)
-* [Grunt](https://gruntjs.com/)
-
-### Building
-
-Once the dependencies are installed, clone the source code repository and use grunt to build it.
-
-	git clone https://github.com/eric-harms/ellucianil-site.git
-	cd ellucianil-site
-	yarn install
-	grunt
-
-## Customizing
-
-The only file you will need to change is:
-
-	scripts\custom\config.js
+The official site for [Combo.js](http://www.combojs.com/)
 
 ## Contributing
 
-We've set up a separate document for our [contribution guidelines](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md)
