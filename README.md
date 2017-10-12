@@ -1,30 +1,31 @@
-![Logo](https://github.com/combojs/combo-seed/blob/master/doc/img/logo.png?raw=true)
+# ellucianil-site
 
-# Combo Site
+The official Ellucian IL website.
 
-The website for Combo.js.
-
-* [Official Site](http://www.combojs.com/)
-* [Gitter](https://gitter.im/combo-js/)
-
-## Building from Source
+## Installation
 
 Before building this project, you must install and configure the following dependencies on your machine.
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/en/)
 * [Grunt](https://gruntjs.com/)
 
 ### Building
 
 Once the dependencies are installed, clone the source code repository and use grunt to build it.
 
-	git clone https://github.com/combojs/combo-seed.git
-	cd combo-seed
-	npm install
+	git clone https://github.com/eric-harms/ellucianil-site.git
+	cd ellucianil-site
+	yarn install
 	grunt
+
+## Customizing
+
+The only file you will need to change is:
+
+	scripts\custom\config.js
 
 ## Contributing
 
 We've set up a separate document for our [contribution guidelines](CONTRIBUTING.md).
-

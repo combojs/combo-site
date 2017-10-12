@@ -1,5 +1,6 @@
 {
-	"strict": "false",
-	"esversion": 6,
- 	"globals": { "Combo": true }
+	"predef": [
+		"miner"
+	],
+	"browser": true
 }

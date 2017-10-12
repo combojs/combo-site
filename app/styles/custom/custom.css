@@ -1,0 +1,49 @@
+/* ==========================================================================
+   #type
+   ========================================================================== */
+
+/* 
+   custom-type--hero
+   ========================================================================== */
+
+.custom-type--hero {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+ 	letter-spacing: -1px;
+ 	color:#fff;
+   margin-bottom:.375rem;
+}
+
+/* 
+   custom-color--tagline
+   ========================================================================== */
+
+.custom-type--tagline {
+	color: #fff;
+}
+
+/* ==========================================================================
+   #buttons
+   ========================================================================== */
+
+/* 
+   --banner
+   ========================================================================== */
+
+/**
+ * Applies the primary background color to the button.
+ *
+ * Usage:
+ *
+ * <a class="mvcc-button mvcc-button--primary"></a>
+ */
+
+.custom-button--banner {
+   color: #fff;
+   border: 2px solid #fff;
+}
+
+.custom-button--banner:hover {
+   color: #222;
+   background-color: #fff;
+}

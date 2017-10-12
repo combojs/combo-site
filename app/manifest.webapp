@@ -1,0 +1,10 @@
+{
+	"name": "EllucianIL",
+	"version": "1.0.0",
+	"description":"Ellucian IL is a one-day annual conference for higher-ed institutions that have the Ellucian Banner or Ellucian Colleague system."
+	"launch_path", "/index.html",
+	"developer": {
+		"name": "Eric Harms",
+		"url": "https://github.com/eric-harms"
+	}
+}
