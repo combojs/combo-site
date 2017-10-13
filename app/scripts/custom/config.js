@@ -56,10 +56,10 @@ BannerComponent.update({
         {
             text: "API",
             url: "https://github.com/combojs/combo-js/blob/master/doc/api/api.md"
-        },
+        },     
         {
-            text: "GitHub",
+            text: "Github",
             url: "https://github.com/combojs/combo-js"
-        }        
+        }       
     ]
 });
