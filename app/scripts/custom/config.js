@@ -9,7 +9,7 @@ HeaderComponent.update({
     title: "Combo",
     links: [
         {
-            text: "V1.4.0",
+            text: "V2.0.0",
             url: "https://github.com/combojs/combo-js/blob/master/CHANGELOG.md"
         },   
         {

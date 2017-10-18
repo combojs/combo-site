@@ -16,7 +16,7 @@ var HeaderComponent = new Combo.Component({
 		}).join("");
 		
 		return `
-			<header class="mat-dock mat-dock--t mat-section custom-section--header mat--color-primary" style="background-color: #A20039" role="banner">
+			<header class="mat-dock mat-dock--t mat-section mat--color-primary" style="background-color: #A20039" role="banner">
 				<div class="mat-section__body">
 					<div class="mat-header">
 						<div class="mat-header__item">
