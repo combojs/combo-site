@@ -1,6 +1,5 @@
 // # Configuration
 
-
 // **HeaderComponent**
 // 
 // The configuration for the Header component.
@@ -8,10 +7,6 @@
 HeaderComponent.update({
     title: "Combo",
     links: [
-        {
-            text: "V2.0.0",
-            url: "https://github.com/combojs/combo-js/blob/master/CHANGELOG.md"
-        },   
         {
             text: "GitHub",
             url: "https://github.com/combojs/combo-js"
