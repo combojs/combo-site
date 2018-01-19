@@ -1,6 +1,6 @@
 # Change Log
 
-Unreleased changes
+## Unreleased changes
 
 * Added Code Climate badge.
 * Added a screenshot on README.
