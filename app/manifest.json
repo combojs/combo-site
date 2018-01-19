@@ -1,0 +1,7 @@
+{
+	"manifest_version": 2,
+	"name": "Combo",
+	"version": "1.0.0",
+	"description": "A lightweight library for creating user interfaces.",
+	"author": "Eric Harms"
+}
