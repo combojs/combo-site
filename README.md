@@ -6,7 +6,7 @@
 
 The official [Combo.js](http://www.combojs.com/) website.
 
-[![Screenshot](https://raw.githubusercontent.com/combojs/combo-site/master/img/screenshot.png)]
+![Screenshot](https://raw.githubusercontent.com/combojs/combo-site/master/img/screenshot.png)
 
 ## Contributing
 
