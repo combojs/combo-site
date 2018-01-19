@@ -1,1 +1,1 @@
-Eric Harms (http://about.me/ericharms)
+Eric Harms (eric@combojs.com)
