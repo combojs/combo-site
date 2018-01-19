@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import {Layout} from "./layout/layout.js";
 import {Home} from "./home/home.js";
 

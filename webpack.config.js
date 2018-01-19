@@ -10,7 +10,7 @@ module.exports = {
 
 	// entry ------------------------------------------------------------------
 
-	entry: "./app/scripts/app.js",
+	entry: ["babel-polyfill", "./app/scripts/app.js"],
 
 	// output -----------------------------------------------------------------
 
@@ -28,13 +28,16 @@ module.exports = {
 
 	// module -----------------------------------------------------------------
 
-	module: {     
+	module: {
 		loaders: [
 			{
 				test: /\.css$/,
 				exclude: /node_modules/,
-				loader: 'style-loader!css-loader'
-			},        
+				loader: 'style-loader!css-loader',
+				options: {
+
+				}
+			},
 			{
 				test: /\.js$/,
 				exclude: /node_modules/,
