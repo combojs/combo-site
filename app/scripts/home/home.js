@@ -13,7 +13,7 @@ const Home = new class extends Combo.Component {
 				{
 					image: "/images/balance.png",
 					title: "Lightweight",
-					text:  "Combo is approximately 1KB when minified and gzipped. This means the framework will load chop-chop."
+					text:  "Combo is approximately 4KB when minified and gzipped. This means the framework will load chop-chop."
 				},
 				{
 					image: "/images/poo.png",
