@@ -1,7 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Combo",
+	"short_name": "Combo.js"
+	"name": "Combo.js",
 	"version": "1.0.0",
-	"description": "A lightweight library for creating user interfaces.",
+	"description": "A mean component-based user interface library.",
 	"author": "Eric Harms"
 }

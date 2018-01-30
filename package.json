@@ -1,7 +1,7 @@
 {
 	"name": "combo-site",
 	"description": "The official site for Combo.js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Eric Harms",
 	"repository": {
 		"type": "git",
