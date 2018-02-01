@@ -3,6 +3,9 @@ import {Example} from "./com/example.js";
 
 const Home = new class extends Combo.Component {
 	mounted() {
+		//
+		// TODO: This doesn't need to be mounted. render instead: ${Features.render()}
+		//
 		Features.mount(document.getElementById("features"), {
 			items: [
 				{
