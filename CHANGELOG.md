@@ -1,5 +1,11 @@
 # Change Log
 
+## Unreleased changes
+
+* Added OpenGraph
+* Added Twitter Card
+* Added Json+LD
+
 ## 1.0.1 (2018-01-30)
 
 * Added structured data.
