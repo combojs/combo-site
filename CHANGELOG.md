@@ -1,10 +1,12 @@
 # Change Log
 
-## Unreleased changes
+## Unreleased Changes
 
-* Added OpenGraph
-* Added Twitter Card
-* Added Json+LD
+* Added OpenGraph.
+* Added Twitter Card.
+* Added Json+LD.
+* Added eslint-config-combo module.
+* Fixed missing comma in manifest.json.
 
 ## 1.0.1 (2018-01-30)
 

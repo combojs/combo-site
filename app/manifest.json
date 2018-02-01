@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"short_name": "Combo.js"
+	"short_name": "Combo.js",
 	"name": "Combo.js",
 	"version": "1.0.0",
 	"description": "A mean component-based user interface library.",
